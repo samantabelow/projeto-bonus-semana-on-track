@@ -2,17 +2,17 @@
 
 Como projeto extra para você que está on track, propomos que você desenvolva um mini game utilizando React e alguma biblioteca nova!
 
-Seguem abaixo algumas sugestões de mini games que podem ser desenvolvidos em React e algumas sugestões de bibliotecas. Porém, sinta-se a vontade para desenvolver algo diferente caso prefira.
+Seguem abaixo algumas sugestões de mini games que podem ser desenvolvidos em React e algumas sugestões de bibliotecas. Porém, sinta-se à vontade para desenvolver algo diferente caso prefira.
 
 No final da semana, abriremos uma thread no slack para que você possa compartilhar com a turma um vídeo de até 3 minutos mostrando o funcionamento do seu projeto.
 
-Fiquem a vontade para desenvolver sozinhos ou em grupo.
+Fiquem à vontade para desenvolver sozinhos ou em grupo.
 
 Vocês terão salinhas disponíveis no zoom das mentorias para se reunir e desenvolver em grupo, caso queiram.
 
-O projeto pode ser deselvolvido em Pull Requests nesse mesmo repositório, ou vocês podem abrir um repositório a parte, fiquem a vontade para decidirem da forma que acharem melhor.
+O projeto pode ser desenvolvido em Pull Requests nesse mesmo repositório, ou vocês podem abrir um repositório a parte, fiquem à vontade para decidirem da forma que acharem melhor.
 
-Uma sugestão/proposta para aprender expandir ainda mais seus conhecimentos, é colocar a aplicação no ar, podendo ser acessada por qualquer pessoa. Para isso, vocês podem utilizar o github pages, o Vercel ou outro servidor de sua preferência.
+Uma sugestão/proposta para expandir ainda mais seus conhecimentos, é colocar a aplicação no ar, podendo ser acessada por qualquer pessoa. Para isso, vocês podem utilizar o github pages, o Vercel ou outro servidor de sua preferência.
 
 <br/>
 
@@ -20,10 +20,13 @@ Uma sugestão/proposta para aprender expandir ainda mais seus conhecimentos, é 
 
 - To do list
 - Jogo da velha
+    - Exemplo: https://playtictactoe.org/
 - 2048
+    - https://2048game.com/pt/
 - Jogo da cobrinha
+    - https://playsnake.org/
 - Jogo do dinossauro
-- Pedra, papel e tesoura
+    - https://poki.com.br/g/dinosaur-game
 - Start reactor
 - Quiz de bandeiras
     - API: https://restcountries.com/
@@ -33,8 +36,14 @@ Uma sugestão/proposta para aprender expandir ainda mais seus conhecimentos, é 
 ## Sugestões de bibliotecas
 
 - Styled components
+   - https://styled-components.com/docs
 - Bootstrap para React
+    - https://react-bootstrap.github.io/
 - Next
+    - https://nextjs.org/docs
 - Material UI
+    - https://mui.com/pt/getting-started/usage/
 - Tailwind
+    - https://tailwindcss.com/docs
 - Axios
+    - https://axios-http.com/docs/intro
