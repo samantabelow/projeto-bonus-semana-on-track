@@ -13,6 +13,7 @@ Vocês terão salinhas disponíveis no zoom das mentorias para se reunir e desen
 O projeto pode ser deselvolvido em Pull Requests nesse mesmo repositório, ou vocês podem abrir um repositório a parte, fiquem a vontade para decidirem da forma que acharem melhor.
 
 Uma sugestão/proposta para aprender expandir ainda mais seus conhecimentos, é colocar a aplicação no ar, podendo ser acessada por qualquer pessoa. Para isso, vocês podem utilizar o github pages, o Vercel ou outro servidor de sua preferência.
+
 <br/>
 
 ## Sugestões de jogos
