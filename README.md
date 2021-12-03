@@ -17,7 +17,6 @@ Uma sugestão/proposta para aprender expandir ainda mais seus conhecimentos, é 
 <br/>
 
 ## Sugestões de jogos
-***
 
 - To do list
 - Jogo da velha
@@ -33,7 +32,6 @@ Uma sugestão/proposta para aprender expandir ainda mais seus conhecimentos, é 
 <br/>
 
 ## Sugestões de bibliotecas
-***
 
 - Styled components
 - Bootstrap para React
